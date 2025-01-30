@@ -13,3 +13,9 @@ function getComputerChoice(){
     }
     return "unknown";
 }
+
+
+function getHumanChoice(){
+    let humanChoice = prompt("get human choice");
+}
+
